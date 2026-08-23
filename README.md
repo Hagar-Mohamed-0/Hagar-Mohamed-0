@@ -85,69 +85,82 @@
 
 
 
-
-
 <!-- SKILLS -->
 <h1 align="center">⚙️ Technical Skills</h1>
 
-<div align="center">
+<table align="center">
+<tr>
 
-  <!-- TOP ROW -->
-  <div>
-    <!-- LANGUAGES -->
-    <div style="display:inline-block; width:31%; vertical-align:top;">
-      <h2>LANGUAGES</h2>
-      <img src="https://img.shields.io/badge/Python-2B5748?style=for-the-badge&logo=python&logoColor=CDD5C5">
-      <img src="https://img.shields.io/badge/C-2B5748?style=for-the-badge&logo=c&logoColor=CDD5C5">
-      <img src="https://img.shields.io/badge/C%2B%2B-2B5748?style=for-the-badge&logo=cplusplus&logoColor=CDD5C5">
-      <img src="https://img.shields.io/badge/Java-2B5748?style=for-the-badge&logo=openjdk&logoColor=CDD5C5">
-      <img src="https://img.shields.io/badge/JavaScript-2B5748?style=for-the-badge&logo=javascript&logoColor=CDD5C5">
-      <img src="https://img.shields.io/badge/C%23-2B5748?style=for-the-badge&logo=csharp&logoColor=CDD5C5">
-    </div>&nbsp;&nbsp;&nbsp;
-    <!-- DEVOPS -->
-    <div style="display:inline-block; width:31%; vertical-align:top;">
-      <h2>DEVOPS & CI/CD</h2>
-      <img src="https://img.shields.io/badge/Docker-2B5748?style=for-the-badge&logo=docker&logoColor=CDD5C5">
-      <img src="https://img.shields.io/badge/Jenkins-2B5748?style=for-the-badge&logo=jenkins&logoColor=CDD5C5">
-      <img src="https://img.shields.io/badge/Kubernetes-2B5748?style=for-the-badge&logo=kubernetes&logoColor=CDD5C5">
-      <img src="https://img.shields.io/badge/GitHub_Actions-2B5748?style=for-the-badge&logo=githubactions&logoColor=CDD5C5">
-    </div>&nbsp;&nbsp;&nbsp;
-    <!-- CLOUD -->
-    <div style="display:inline-block; width:31%; vertical-align:top;">
-      <h2>CLOUD & AUTOMATION</h2>
-      <img src="https://img.shields.io/badge/AWS-2B5748?style=for-the-badge&logo=amazonaws&logoColor=CDD5C5">
-      <img src="https://img.shields.io/badge/Huawei_Cloud-2B5748?style=for-the-badge&logo=huawei&logoColor=CDD5C5">
-      <img src="https://img.shields.io/badge/Terraform-2B5748?style=for-the-badge&logo=terraform&logoColor=CDD5C5">
-      <br>
-      <img src="https://img.shields.io/badge/Ansible-2B5748?style=for-the-badge&logo=ansible&logoColor=CDD5C5">
-      <img src="https://img.shields.io/badge/Bash-2B5748?style=for-the-badge&logo=gnubash&logoColor=CDD5C5">
-    </div>
+<!-- LANGUAGES -->
+<td align="center" width="33%">
 
-  </div>
+<h3>LANGUAGES</h3>
 
-  <br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
 
-  <!-- BOTTOM ROW -->
-  <div>
-    <!-- INFRASTRUCTURE -->
-    <div style="display:inline-block; width:31%; vertical-align:top;">
-      <h2>INFRASTRUCTURE</h2>
-      <img src="https://img.shields.io/badge/Linux-2B5748?style=for-the-badge&logo=linux&logoColor=CDD5C5">
-      <img src="https://img.shields.io/badge/Networking-2B5748?style=for-the-badge&logo=cisco&logoColor=CDD5C5">
-    </div>&nbsp;&nbsp;&nbsp;
-    <!-- TOOLS -->
-    <div style="display:inline-block; width:31%; vertical-align:top;">
-      <h2>TOOLS</h2>
-      <img src="https://img.shields.io/badge/Git-2B5748?style=for-the-badge&logo=git&logoColor=CDD5C5">
-      <img src="https://img.shields.io/badge/GitHub-2B5748?style=for-the-badge&logo=github&logoColor=CDD5C5">
-      <img src="https://img.shields.io/badge/SQLite-2B5748?style=for-the-badge&logo=sqlite&logoColor=CDD5C5">
-      <img src="https://img.shields.io/badge/VS_Code-2B5748?style=for-the-badge&logo=visualstudiocode&logoColor=CDD5C5">
-    </div>
+</td>
 
-  </div>
+<!-- DEVOPS -->
+<td align="center" width="33%">
 
-</div>
+<h3>DEVOPS & CI/CD</h3>
 
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+
+</td>
+
+<!-- CLOUD -->
+<td align="center" width="33%">
+
+<h3>CLOUD & AUTOMATION</h3>
+
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/Huawei_Cloud-FF0000?style=for-the-badge&logo=huawei&logoColor=white">
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white">
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
+
+</td>
+
+</tr>
+
+<tr>
+
+<!-- INFRASTRUCTURE -->
+<td align="center" width="33%">
+
+<h3>INFRASTRUCTURE</h3>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
+
+</td>
+
+<!-- TOOLS -->
+<td align="center" width="33%">
+
+<h3>TOOLS</h3>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+
+</td>
+
+<!-- EMPTY SPACE -->
+<td width="33%"></td>
+
+</tr>
+</table>
 <br>
 <hr>
 <br>
